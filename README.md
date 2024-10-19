@@ -13,8 +13,6 @@ _This is a Quran Tutor application that leverages Tarteel-Whisper model for live
 
 **Tools and Technology**
  
-<ul>
-  <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img alt="Hugging Face" src="https://img.shields.io/badge/Hugging%20Face-FFAE00?style=for-the-badge&logo=huggingface&logoColor=white" />
-  <img alt="Gradio" src="https://img.shields.io/badge/Gradio-20B6FC?style=for-the-badge&logo=gradio&logoColor=white" />
-</ul>
+ <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+ <img alt="Hugging Face" src="https://img.shields.io/badge/Hugging%20Face-FFAE00?style=for-the-badge&logo=huggingface&logoColor=white" />
+ <img alt="Gradio" src="https://img.shields.io/badge/Gradio-20B6FC?style=for-the-badge&logo=gradio&logoColor=white" />
