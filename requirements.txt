@@ -1,0 +1,10 @@
+openai
+gradio
+python-dotenv
+transformers
+logging 
+html
+huggingface-hub
+xml-python
+os
+numpy
