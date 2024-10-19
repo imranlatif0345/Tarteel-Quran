@@ -1,4 +1,5 @@
 # Tarteel-Quran
+<img alt="Quran" src="https://img.shields.io/badge/Quran-008000?style=for-the-badge&logo=islam&logoColor=white" />
 Quran Tutor Application
 _This is a Quran Tutor application that leverages Tarteel-Whisper model for live transcription and verifying the correctness of Quran verses. The application is built using the Gradio interface for seamless interaction._
 
